@@ -1,0 +1,8 @@
+29-10_2026 21:52:32 | INFO | Extract started!
+29-10_2026 21:52:32 | INFO | Get data distribution_centers done: Total 10 rows
+29-10_2026 21:52:33 | INFO | Get data inventory_items done: Total 490705 rows
+29-10_2026 21:52:33 | INFO | Get data order_items done: Total 181759 rows
+29-10_2026 21:52:33 | INFO | Get data orders done: Total 125226 rows
+29-10_2026 21:52:33 | INFO | Get data products done: Total 29120 rows
+29-10_2026 21:52:33 | INFO | Get data users done: Total 100000 rows
+29-10_2026 21:52:38 | INFO | Get data events done: Total 2431963 rows
